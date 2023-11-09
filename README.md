@@ -16,7 +16,7 @@ This code write by [KAR13MA09](https://github.com/KAR13MA09/)
 
 **Installing**
 ``` sh
-git clone https://github.com/KAR13MA09/DDos-Attack
+git clone https://github.com/KAR13MA09/DDos-Attack.git
 
 cd DDos-attack
 
