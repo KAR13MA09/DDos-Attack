@@ -38,15 +38,15 @@ class color:
 def menu():
     title()
     cls()
-    print(color.green + """
+    print(color.Red + """
  ███╗   ██╗████████╗████████╗████████╗ 
  ████╗  ██║╚══██╔══╝╚══██╔══╝╚══██╔══╝ 
  ██╔██╗ ██║   ██║      ██║      ██║     
  ██║╚██╗██║   ██║      ██║      ██║  
  ██║ ╚████║   ██║      ██║      ██║     
- ╚═╝  ╚═══╝   ╚═╝      ╚═╝      ╚═╝ \n""" + color.blue + """
+ ╚═╝  ╚═══╝   ╚═╝      ╚═╝      ╚═╝ \n""" + color.Red + """
          ----[    This code write by KAR13MA09   ]---
-        -------[ github :""" + color.blue + """ https://github.com/KAR13MA09 ]-----------""" + color.End)
+        -------[ github :""" + color.Red + """ https://github.com/KAR13MA09 ]-----------""" + color.End)
     host = input("\nEnter Host: ")
     time.sleep(1)
     port = int(input("\nEnter Target port: "))
